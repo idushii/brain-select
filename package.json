@@ -1,7 +1,7 @@
 {
   "name": "brain-logical",
   "version": "1.0.0",
-  "description": "Пример реализации нейронных сетей",
+  "description": "Пример обучения нейронных сетей на матрице. Проверка результатов обучения.",
   "author": "ILINOV NICOLAY",
   "private": true,
   "scripts": {
